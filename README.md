@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Spencer - aka [whit3hat][website](spencerwood.codes) 👋
 
 <!--
 **whit3hat/whit3hat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
