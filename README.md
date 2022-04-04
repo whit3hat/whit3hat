@@ -1,6 +1,6 @@
 ### Hi there, I'm Spencer - aka [whit3hat][website](http://spencerwood.codes) 👋
 
-## I'm a Husband, Father, Developer
+## I'm a Nerd, Father, Developer
 - 🔭 I’m currently working on a chat app and Pokémon Pokédex application (to impress my 10yr old son 🤷‍♂️) 
 - 🌱 I’m currently learning everything 🤪 (mainly ReactJS)
 - 📫 How to reach me: 
